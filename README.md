@@ -41,7 +41,7 @@
 
 * **Web** : [성예인](https://github.com/syi0808)
 * **iOS** : [김수완](https://github.com/kimxwan0319)
-* **Android** : 김재원
+* **Android** : [김재원](https://github.com/jaewonkim1468)
 * **Design** : [이은별](https://github.com/dlswer23)
 
 <hr>
