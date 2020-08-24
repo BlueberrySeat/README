@@ -1,6 +1,6 @@
 # 블루베리
 
-<img src="https://user-images.githubusercontent.com/67373938/90981497-53189400-e59c-11ea-9f81-2a728350b7e9.png" width="250px"></img>
+<img src="https://user-images.githubusercontent.com/67373938/90981497-53189400-e59c-11ea-9f81-2a728350b7e9.png" width="150px"></img>
 
 
 
