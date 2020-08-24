@@ -29,7 +29,9 @@
 
 ### 🖥  Web
 
-> * 
+> * Visual Studio Code 1.48, Window 10 Version 1909
+> * Language : HTML5, CSS3, Javascript
+> * Framework : React
 
 **🗄 Database :** Firebase
 
