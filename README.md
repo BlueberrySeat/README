@@ -52,19 +52,19 @@
 
 > **0.  메인 페이지**
 
-<img src="https://user-images.githubusercontent.com/66503450/91691971-8f9f4d80-eba3-11ea-84dc-398d490f3de8.png" style="width: 500px; float: left;">
+<img src="https://user-images.githubusercontent.com/66503450/91691971-8f9f4d80-eba3-11ea-84dc-398d490f3de8.png" width="500px">
 
 > **1. 인원수 설정**
 
-<img src="https://user-images.githubusercontent.com/66503450/91691993-9af27900-eba3-11ea-8ab7-895faafb9dfa.png" style="width: 500px; float: left;">
+<img src="https://user-images.githubusercontent.com/66503450/91691993-9af27900-eba3-11ea-8ab7-895faafb9dfa.png" width="500px">
 
 > **2. 대기화면**
 
-<img src="https://user-images.githubusercontent.com/66503450/91692014-a3e34a80-eba3-11ea-80d5-59f054300219.png" style="width: 500px; float: left;">
+<img src="https://user-images.githubusercontent.com/66503450/91692014-a3e34a80-eba3-11ea-80d5-59f054300219.png" width="500px">
 
 > **3. 자리 현황**
 
-<img src="https://user-images.githubusercontent.com/66503450/91692034-acd41c00-eba3-11ea-8607-3e0f9224d613.png" style="width: 500px; float: left;">
+<img src="https://user-images.githubusercontent.com/66503450/91692034-acd41c00-eba3-11ea-8607-3e0f9224d613.png" width="500px">
 
 
 
