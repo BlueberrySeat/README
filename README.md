@@ -50,7 +50,23 @@
 
 ### 🖥  Web
 
-> **0. **
+> **0.  메인 페이지**
+
+![screencapture-blueberryseat-s3-website-ap-northeast-2-amazonaws-2020-08-31-16_02_18](https://user-images.githubusercontent.com/66503450/91691971-8f9f4d80-eba3-11ea-84dc-398d490f3de8.png)
+
+> **1. 인원수 설정**
+
+![screencapture-blueberryseat-s3-website-ap-northeast-2-amazonaws-2020-08-31-16_02_34](https://user-images.githubusercontent.com/66503450/91691993-9af27900-eba3-11ea-8ab7-895faafb9dfa.png)
+
+> **2. 대기화면**
+
+![screencapture-blueberryseat-s3-website-ap-northeast-2-amazonaws-2020-08-31-16_03_01](https://user-images.githubusercontent.com/66503450/91692014-a3e34a80-eba3-11ea-80d5-59f054300219.png)
+
+> **3. 자리 현황**
+
+![screencapture-blueberryseat-s3-website-ap-northeast-2-amazonaws-2020-08-31-16_03_21](https://user-images.githubusercontent.com/66503450/91692034-acd41c00-eba3-11ea-8607-3e0f9224d613.png)
+
+
 
 ### 📱 iOS
 
