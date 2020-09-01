@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/67373938/90981497-53189400-e59c-11ea-9f81-2a728350b7e9.png" width="150px"></img>
 
-[![iOS](https://img.shields.io/badge/iOS-gray?logo=Apple&logoColor=white)](https://github.com/BlueberrySeat/Blueberry_iOS) [![Android](https://img.shields.io/badge/Android-limegreen?logo=Android&logoColor=white)]() [![Web](https://img.shields.io/badge/</>_Web-Royalblue?)](https://github.com/BlueberrySeat/Blueberry_Web)
+[![iOS](https://img.shields.io/badge/iOS-gray?logo=Apple&logoColor=white)](https://github.com/BlueberrySeat/Blueberry_iOS) [![Android](https://img.shields.io/badge/Android-limegreen?logo=Android&logoColor=white)](https://github.com/BlueberrySeat/Blueberry_Android) [![Web](https://img.shields.io/badge/</>_Web-Royalblue?)](https://github.com/BlueberrySeat/Blueberry_Web)
 
 * 프로젝트 기간: 2020.08.14 ~
 
@@ -29,7 +29,10 @@
 
 ### 🖥  Web
 
-> * 
+> * Visual Studio Code 1.48, Window 10 Version 1909
+>
+> * Language : HTML5, CSS3, Javascript
+> * Framework : React
 
 **🗄 Database :** Firebase
 
