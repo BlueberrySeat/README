@@ -25,7 +25,8 @@
 
 ### 📱 Android
 
-> * 
+> * Android Studio 4.0
+> * Language:Java
 
 ### 🖥  Web
 
