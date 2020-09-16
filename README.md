@@ -90,5 +90,18 @@
 
 ### 📱 Android
 
-> **0. **
+> **0.  PIN 번호 입력**
 
+<img src="https://user-images.githubusercontent.com/67100819/93344204-5be34980-f86c-11ea-9cab-ecc2737d5d83.png" width="150px"></img><img src="https://user-images.githubusercontent.com/67100819/93344635-dc09af00-f86c-11ea-936f-ce9981ad7ba3.jpg" width="150px"></img>
+
+> **1.이름입력**
+
+<img src="https://user-images.githubusercontent.com/67100819/93344775-09565d00-f86d-11ea-949a-3ef8b502c299.jpg" width="150px"></img><img src="https://user-images.githubusercontent.com/67100819/93344859-22f7a480-f86d-11ea-91c2-df39771f1984.jpg" width="150px"></img>
+
+> **2.대기화면**
+
+<img src="https://user-images.githubusercontent.com/67100819/93344977-47538100-f86d-11ea-9e7c-41c1667fcf99.jpg" width="150px"></img>
+
+> **3.티켓팅(?)화면**
+
+<img src="https://user-images.githubusercontent.com/67100819/93345196-7ec22d80-f86d-11ea-9f99-ffb37d300fce.jpg" width="150px"></img><img src="https://user-images.githubusercontent.com/67100819/93345267-926d9400-f86d-11ea-8caf-d6a5bd5cf16c.jpg" width="150px"></img><img src="https://user-images.githubusercontent.com/67100819/93345375-b5984380-f86d-11ea-98db-c25801652fc7.jpg" width="150px"></img>
