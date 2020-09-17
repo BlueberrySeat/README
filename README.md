@@ -4,7 +4,7 @@
 
 [![iOS](https://img.shields.io/badge/iOS-gray?logo=Apple&logoColor=white)](https://github.com/BlueberrySeat/Blueberry_iOS) [![Android](https://img.shields.io/badge/Android-limegreen?logo=Android&logoColor=white)](https://github.com/BlueberrySeat/Blueberry_Android) [![Web](https://img.shields.io/badge/</>_Web-Royalblue?)](https://github.com/BlueberrySeat/Blueberry_Web)
 
-* 프로젝트 기간: 2020.08.14 ~
+* 프로젝트 기간: 2020.08.14 ~ 2020.08.31
 
 <hr>
 
